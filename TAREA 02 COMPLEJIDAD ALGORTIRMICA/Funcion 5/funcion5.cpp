@@ -13,6 +13,7 @@ void funcion5(string _a,string _b){
         }
     }
     cout<<a<<"-"<<b<<"-"<<c<<endl;
+    //O(A*B)
 }
 
 
