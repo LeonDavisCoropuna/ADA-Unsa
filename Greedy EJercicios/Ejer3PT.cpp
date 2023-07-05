@@ -33,10 +33,10 @@ vector<Task> scheduleTasks(const vector<Task>& tasks, int totalTime) {
 
 int main() {
     vector<Task> tasks;
-    tasks.push_back(Task(2, 100));
+    tasks.push_back(Task(2, 50));
     tasks.push_back(Task(1, 10));
     tasks.push_back(Task(2, 15));
-    tasks.push_back(Task(1, 27));
+    tasks.push_back(Task(1, 30));
 
     int totalTime = 4;
 
